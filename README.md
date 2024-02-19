@@ -13,9 +13,14 @@
 ## 💻 Projeto
 
 Projeto utilizado para rever conceitos do Python:
-- Manipulação e tratamento de Texto
-- Função
-- Documentação
+- Random
+- String
+```python
+Entrada:
+- Tamanho da senha
+Saída:
+- Senha gerada (Com pelo menos 1 letra maiúscula, 1 número e 1 caractere especial)
+```
 
 ## ✨ Tecnologias
 
