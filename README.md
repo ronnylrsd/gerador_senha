@@ -18,6 +18,9 @@ Projeto utilizado para rever conceitos do Python:
 ```python
 Entrada:
 - Tamanho da senha
+- Qual caracter especial
+- Se quer letras maiúsculas
+- Se quer letras minúsculas
 Saída:
 - Senha gerada (Com pelo menos 1 letra maiúscula, 1 número e 1 caractere especial)
 ```
