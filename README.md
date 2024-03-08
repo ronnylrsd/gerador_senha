@@ -22,7 +22,7 @@ Entrada:
 - Se quer letras maiúsculas
 - Se quer letras minúsculas
 Saída:
-- Senha gerada (Com pelo menos 1 letra maiúscula, 1 número e 1 caractere especial)
+- Senha gerada (Com pelo menos 1 número e 1 caractere especial)
 ```
 
 ## ✨ Tecnologias
