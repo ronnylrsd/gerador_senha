@@ -50,6 +50,7 @@ Preparar o seu ambiente Python para novos projetos na sua máquina.
 
 ## 🚀 Como executar
 
+É possível rodar o projeto python tanto pelo .py quanto pelo .ipynb
 - Rode todas as células (Importante rodar as de importação)
 - Altere o texto caso necessário
 
